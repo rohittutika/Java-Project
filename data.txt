@@ -3,3 +3,4 @@ haja
 ram
 mango
 new line
+trigger test
